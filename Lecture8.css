@@ -1,16 +1,16 @@
 body{
-	background-color: #9F3AE5;
+	background-color: #28decf;
 }
 .headborder{
 	height: auto;
-	border:5px solid #E354D1;
+	border:5px solid #cf2950;
 	text-align: center;
-	color: #75F6FA;
+	color: #cf3129;
 }
 #table,th{
 	position: relative;
 	left: 320px;
-	color: #75F6FA;
+	color: #cf2958;
 	font-size: 20px;
 	border-spacing: 15px;
 	border-collapse: separate;
