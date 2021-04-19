@@ -18,19 +18,19 @@ body{
 
 .border2{
 	position: relative;
-	border:5px double #E354D1;
+	border:5px double #9c0e1f;
 	padding:2px;
 	margin-right: 50%;
-	color: #75F6FA;
+	color: #250759;
 	height: 450px;
 }
 .border1{
-	background-color: #E3B9D4;
-	border: 5px double #CED0E6;
+	background-color: #250759;
+	border: 5px double #9c0e1f;
 	position: absolute;
 	top: 45%;
 	left: 1%;
-	color: #FDF1EE;
+	color: #e60935;
 	width: 730px;
 	height: 120px;
 	overflow: auto;
@@ -38,8 +38,8 @@ body{
 }
 
 .border3{
-	background-color: #E3B9D4;
-	border: 5px double #CED0E6;
+	background-color: #250759;
+	border: 5px double #9c0e1f;
 	position: absolute;
 	top: 65%;
 	left: 1%;
@@ -50,35 +50,35 @@ body{
 
 }
 .border4{
-	border:5px double #E354D1;
+	border:5px double #9c0e1f;
 	position: absolute;
 	right: 0%;
 	width: 700px;
 	height: 450px; 
 	top: 180px;
-	color: #FDF1EE;
+	color: #e60935;
 }
 .border5{
-	border:5px double #E354D1;
+	border:5px double #9c0e1f;
 	text-align: center;
 }
 a:link{
-	color:#B5BAF3;
+	color: #e60935;
 	background-color: transparent;
 	text-decoration: none;
 }
 a:visited{
-	color: #B5BAF3;
+	color: #e60935;
 	background-color: transparent;
 	text-decoration: none;
 }
 a:hover{
-	color: #FDF1EE;
+	color: #e60935;
 	background-color: transparent;
 	text-decoration: none;
 }
 a:active{
-	color: #CED0E6;
+	color: #e60935;
 	background-color: transparent;
 	text-decoration: none;
 }
