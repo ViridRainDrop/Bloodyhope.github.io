@@ -1,0 +1,66 @@
+ #games {background-color:red;
+		color:blue;
+             font: arial;
+     clear: left;
+ }
+
+  .Hello {color:pink;}
+
+  .Do {color:lime;
+	background-color: darkgreen;
+	border: double green;
+      width: 180px;
+      height:200px;
+}
+  
+  .so{
+      font-size:120%;
+      color:cyan;
+  }
+
+ #so {
+      background-color:purple;
+      width: 130px;
+      height:210px;
+      float: right;
+ }
+
+ #one {
+      background-color:purple;
+      width: 130px;
+      height:140px;
+  	z-index: 1;
+	float: right;
+ }
+ 
+ #two {
+     border: double blue;
+     padding: 10px;
+     margin: 20px;
+     float: left;
+      position: absolute;
+ }
+ 
+ .arbox {
+     background-color: blue;
+     border: 2px brown solid;
+     padding: 8px;
+ }
+
+ .brbox {
+     background-color: lime;
+     border: 2px aqua solid;
+     padding: 8px;
+ }
+ 
+ #four {
+  position: relative;
+  top: 25px;
+  z-index: 1;
+}
+
+#five {
+  position: relative;
+  left: 90px;
+
+}

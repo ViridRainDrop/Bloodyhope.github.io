@@ -1,0 +1,56 @@
+*{background-color: darkgreen}
+
+.titletext {color: darkgreen;}
+
+.yoyoyo {
+    border: double red;
+    border-top-style: dotted;
+    border-right-style: solid;
+    border-bottom-style: dotted;
+    border-left-style: solid;
+}
+
+.ce {color:white;
+    background-color:white; 
+    width:250px;
+    height:200px;
+    padding:50px;
+    margin:50px;
+    position:absolute; right:900px; top:70px;
+}
+
+ #jk {
+	background-color:pink; 
+	color: pink;
+     border: double pink;
+    width:750px;
+    height: 100px;
+     padding: 10px;
+     margin: 20px;
+     float: right;
+ }
+
+#worst {
+     color: cyan;
+     border: double cyan;
+     background-color: cyan;
+     padding: 100px;
+     margin: 100px;
+     position: absolute; bottom: 80px;
+     
+}
+
+ #us {
+    border: double blue;
+    border-top-style: solid;
+    border-right-style: dotted;
+    border-bottom-style: solid;
+    border-left-style: dotted;
+    width:500px;
+    height: 200px;
+     padding: 10px;
+     margin: 20px;
+     float: left;
+      position: absolute;
+ }
+
